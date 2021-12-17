@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Angus-robots
+- 👀 I’m interested in AI Technologies & Web Development
+- 🌱 I’m currently learning Computer Science and Business Management
+- 💞️ I’m looking to collaborate on OpenAI
